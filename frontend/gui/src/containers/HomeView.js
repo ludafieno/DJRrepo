@@ -45,7 +45,7 @@ class HomeView extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src="https://cdn1us.denofgeek.com/sites/denofgeekus/files/8qkqujl.jpg"
+            src="https://vignette.wikia.nocookie.net/starwars/images/b/b3/Takodana_sunset.png/revision/latest?cb=20180129031745"
             height='708px'
             width='398px'
           />
