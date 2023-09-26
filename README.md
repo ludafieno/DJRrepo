@@ -6,3 +6,4 @@ The first log of the website explains the project in concise detail:
 
 (Sun January 5th, 5:46 PM)
 
+I made this scrappy website out of Django + React when I was a freshman in high school and put together facts about animals and a log/journal for my personal website use
